@@ -1,0 +1,8 @@
+/* Estilos provisionales: Persona 2 puede reemplazar estos componentes. */
+.module-placeholder { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 24px; }
+.module-placeholder p { margin: 0 0 18px; }
+.quick-links { display: flex; flex-wrap: wrap; gap: 10px; }
+.button { display: inline-block; background: var(--primary); color: white; text-decoration: none; padding: 10px 15px; border: 1px solid var(--primary); border-radius: 6px; font-size: 14px; font-weight: 600; }
+.button:hover { background: var(--primary-dark); color: white; }
+.button-secondary { background: white; color: var(--primary); border-color: #a6b7c3; }
+.prototype-note { font-size: 13px; color: var(--muted); margin-top: 20px; }
